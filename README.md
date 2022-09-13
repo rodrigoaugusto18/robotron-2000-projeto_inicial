@@ -7,10 +7,10 @@ O projeto Robotron foi desenvolvido com o objetivo de aprender e praticar o Dom 
 
 <h2>Monte o seu Robotron também! </h2>
 
-Para montar o seu Robotron você precisa adicionar peças na engrenagem que compõem o robo e ver as estatísticas atualizadas dinâmicamente.
+Para montar o seu Robotron você precisa adicionar peças na engrenagem que compõem o robô e ver as estatísticas atualizadas dinâmicamente.
 
 <h2>O que foi desenvolvido no curso: </h2>
-Adicionar peças na engrenagem que compõem o robo e ver as estatísticas atualizadas dinâmicamente.
+Adicionar peças na engrenagem que compõem o robô e ver as estatísticas atualizadas dinâmicamente.
 
 <h2>O que foi desenvolvido por mim mesmo: </h2>
-Alterar a cor do robo.
+Alterar a cor do robô.
